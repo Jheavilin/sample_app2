@@ -1,3 +1,4 @@
+# Ruby on Rails Tutorial : smample_app2 - the second comming!
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
